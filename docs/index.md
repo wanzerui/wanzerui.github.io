@@ -1,2 +1,3 @@
 # wanzerui's Web
-[Home](wanzerui.github.io)
+[Index](wanzerui.github.io)
+[Home](wanzerui.github.io/docs/index.html)
