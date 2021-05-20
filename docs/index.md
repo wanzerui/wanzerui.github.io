@@ -1,1 +1,1 @@
-[Index](wanzerui.github.io/index.html)
+[Index](wanzerui.github.io/index.md)
